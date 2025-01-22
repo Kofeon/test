@@ -1,5 +1,5 @@
 {
-  "url": "<demo_trade.t.me>",                        // required
-  "name": "<demo_trade>",                      // required
-  "iconUrl": "<https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fvsyapravda.net%2Fstorage%2Fapp%2Fuploads%2Fpublic%2F620%2F116%2F82a%2F62011682a82d8160420880.jpg&lr=175515&pos=1&rpt=simage&text=demo%20trade>" // required
+  "url": "<demo_trade.t.me>", 
+  "name": "<demo_trade>",
+  "iconUrl": "<https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fvsyapravda.net%2Fstorage%2Fapp%2Fuploads%2Fpublic%2F620%2F116%2F82a%2F62011682a82d8160420880.jpg&lr=175515&pos=1&rpt=simage&text=demo%20trade>"
 }
